@@ -1,5 +1,5 @@
 # 💫 About Me:
--Currently working on building a platform for models and people in Fashion industry to come collaborate and create a community of their own on a separate professional platform for their art. <br>-Currently been exploring Deep learning and understanding on improvement of better cumulative result given by AI.<br>
+Exploring deep learning concepts and experimenting with neural networks to produce better understanding of real-world AI applications.
 
 
 ## 🌐 Socials:

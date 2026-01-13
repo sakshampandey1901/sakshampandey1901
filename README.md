@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring deep learning concepts and experimenting with neural networks to produce better understanding of real-world AI applications.
+Exploring deep learning concepts and experimenting with neural networks to have better understanding of real-world AI applications.
 
 
 ## 🌐 Socials:

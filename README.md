@@ -22,7 +22,7 @@ Libraries:
 System and Tools: 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-3E3E3E?style=for-the-badge&logo=Pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A2FFF?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Tokenner](https://img.shields.io/badge/Tokenner-000000?style=for-the-badge&logo=tokenner&logoColor=white)
 
 ---

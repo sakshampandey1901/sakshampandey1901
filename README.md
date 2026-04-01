@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-- Currently a Junior majoring in IT with a focus in Machine learning. 
-- Exploring ML/deep learning concepts, and experimenting with neural networks to create better understanding of real-world AI applications.
+- Currently a junior, majoring in IT.
+- Working and building in ML
 
 
 ## 🌐 Socials:

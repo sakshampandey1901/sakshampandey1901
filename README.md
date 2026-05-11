@@ -1,6 +1,6 @@
 # 💫 About Me:
 
- majoring in IT.
+- Majoring in IT.
 - Working and building in ML
 
 

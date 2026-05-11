@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- Currently a junior, majoring in IT.
+ majoring in IT.
 - Working and building in ML
 
 

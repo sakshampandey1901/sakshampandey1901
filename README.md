@@ -1,7 +1,8 @@
 # 💫 About Me:
 
- - Learning and building.
- - Experience in full stack and ML.
+ - Learning through building.
+ - Currently diving deeper in understanding Applied AI. 
+ - Experience in Full stack dev.
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 # 💫 About Me:
 
- - Majoring in IT.
- - Working and building in ML.
+ - Learning and building.
+ - Experience in full stack and ML.
 
 
 ## 🌐 Socials:

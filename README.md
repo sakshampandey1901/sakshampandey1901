@@ -1,6 +1,6 @@
 # 💫 About Me:
 
- - Learning and building
+ - Learning and building.
  - Currently diving deeper in understanding Applied ML and computer vision. 
  - Experience in Full stack dev.
 
